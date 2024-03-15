@@ -1,0 +1,13 @@
+.container{
+    border-radius: 25px;
+    background-color: lightgray;
+    padding: 25px;
+    font-family:poppins ;
+}
+body{
+    padding: 30px;
+}
+li{
+    font-family: poppins;
+    margin: 5px 0px;
+}
